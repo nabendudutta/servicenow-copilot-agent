@@ -48,7 +48,7 @@ TABLES = {
             "close_notes", "work_notes", "cmdb_ci",
             "caused_by", "rfc", "problem_id",
         ],
-        #"filter": "active=true^ORstate=6^ORstate=7",
+        "filter": "active=true^ORstate=6^ORstate=7",
     },
     "changes": {
         "table":  "change_request",

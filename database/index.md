@@ -1,8 +1,8 @@
 # 🗄️ ServiceNow Copilot — Search Index
 
-> **Last indexed:** 2024-05-01 15:00 UTC  
-> **Last sync:** 2024-05-01T15:00:00+00:00  
-> **Records:** {"incidents": 1, "changes": 0, "problems": 0, "knowledge": 1}
+> **Last indexed:** 2026-05-08 10:37 UTC  
+> **Last sync:** 2026-05-08T10:37:11.352494+00:00  
+> **Records:** {'incidents': 0, 'changes': 1, 'problems': 0, 'knowledge': 0}
 
 ---
 
@@ -17,23 +17,28 @@ The agent matches your query keywords against this index to find relevant record
 
 | Number | Short Description | Keywords |
 |--------|-------------------|----------|
-| [INC0001234](incidents/INC0001234.md) | GitHub Actions workflow failing with SonarQube quality gate timeout | github, actions, sonarqube, quality, gate, timeout, token, expired, payments, pipeline |
+| [INC0001234](incidents/INC0001234.md) | GitHub Actions workflow failing with SonarQube quality gate timeout | inc0001234, github, actions, workflow, failing, sonarqube, quality, gate, timeout, details, state, resolved |
 
-## 🔧 Changes (0 records)
+
+## 🔧 Changes (1 records)
 
 | Number | Short Description | Keywords |
 |--------|-------------------|----------|
+| [CHG0000003](changes/CHG0000003.md) | Roll back Windows SP2 patch | chg0000003, roll, back, windows, patch, details, type, normal, state, closed, risk, high |
+
 
 ## 🐛 Problems (0 records)
 
 | Number | Short Description | Keywords |
 |--------|-------------------|----------|
 
+
 ## 📖 Knowledge (1 records)
 
 | Number | Short Description | Keywords |
 |--------|-------------------|----------|
-| [KB0004521](knowledge/KB0004521.md) | Resolving Terraform State Lock Errors in CI/CD Pipelines | terraform, state, lock, dynamodb, pipeline, github, actions, stale, force-unlock, aws |
+| [KB0004521](knowledge/KB0004521.md) | Resolving Terraform State Lock Errors in CI/CD Pipelines | kb0004521, resolving, terraform, state, lock, errors, pipelines, article, info, category, devops, ci-cd |
+
 
 ---
-*Total records indexed: **2** | Generated: 2024-05-01 15:00 UTC*
+*Total records indexed: **3** | Generated: 2026-05-08 10:37 UTC*

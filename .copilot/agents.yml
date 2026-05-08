@@ -1,0 +1,13 @@
+agents:
+  - name: ServiceNow Copilot
+    description: >
+      A smart DevOps assistant that answers questions about incidents, changes,
+      problems, and knowledge articles sourced from ServiceNow. Prioritizes
+      internal Markdown database before going to the internet. Understands
+      GitHub, SonarQube, Veracode, XLR, XLD, Terraform, and cloud infrastructure.
+    version: "1.0.0"
+    instructions: .copilot/instructions.md
+    model: copilot
+    tools:
+      - type: local-workspace
+      - type: web-search

@@ -1,5 +1,5 @@
 # Environment — NEVER commit real credentials
-.env
+#.env
 
 # Python
 __pycache__/

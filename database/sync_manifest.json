@@ -1,8 +1,11 @@
 {
-  "last_sync": "2026-05-08T10:43:16.895390+00:00",
-  "sync_type": "incidents",
+  "last_sync": "2026-05-08T10:48:09.237281+00:00",
+  "sync_type": "full",
   "lookback_h": 8,
   "records_sync": {
-    "incidents": 0
+    "incidents": 0,
+    "changes": 1,
+    "problems": 0,
+    "knowledge": 0
   }
 }

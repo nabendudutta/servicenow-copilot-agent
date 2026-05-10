@@ -1,8 +1,8 @@
 # 🗄️ ServiceNow Copilot — Search Index
 
-> **Last indexed:** 2026-05-09 22:52 UTC  
-> **Last sync:** 2026-05-09T22:52:34.234575+00:00  
-> **Records:** {'incidents': 0, 'changes': 1, 'problems': 0, 'knowledge': 0}
+> **Last indexed:** 2026-05-10 22:53 UTC  
+> **Last sync:** 2026-05-10T22:53:37.770450+00:00  
+> **Records:** {'incidents': 1, 'changes': 1, 'problems': 0, 'knowledge': 0}
 
 ---
 
@@ -13,7 +13,7 @@ The agent matches your query keywords against this index to find relevant record
 
 ---
 
-## 🚨 Incidents (11 records)
+## 🚨 Incidents (12 records)
 
 | Number | Short Description | Keywords |
 |--------|-------------------|----------|
@@ -28,6 +28,7 @@ The agent matches your query keywords against this index to find relevant record
 | [INC0010009](incidents/INC0010009.md) | Red Hat Satellite 6 content sync failing — repository metadata error | inc0010009, satellite, content, sync, failing, repository, metadata, error, details, state, resolved, priority |
 | [INC0010010](incidents/INC0010010.md) | ArgoCD application out of sync after Kubernetes RBAC policy change | inc0010010, argocd, application, sync, after, kubernetes, rbac, policy, change, details, state, resolved |
 | [INC0010011](incidents/INC0010011.md) | Prometheus alertmanager not sending alerts — SMTP relay misconfiguration | inc0010011, prometheus, alertmanager, sending, alerts, smtp, relay, misconfiguration, details, state, resolved, priority |
+| [INC0010012](incidents/INC0010012.md) | how to create Kubernetes POD | inc0010012, create, kubernetes, details, state, priority, category, inquiry, help, assigned, opened, resolved |
 
 
 ## 🔧 Changes (1 records)
@@ -51,4 +52,4 @@ The agent matches your query keywords against this index to find relevant record
 
 
 ---
-*Total records indexed: **13** | Generated: 2026-05-09 22:52 UTC*
+*Total records indexed: **14** | Generated: 2026-05-10 22:53 UTC*

@@ -1,7 +1,7 @@
 # 🗄️ ServiceNow Copilot — Search Index
 
-> **Last indexed:** 2026-05-11 22:58 UTC  
-> **Last sync:** 2026-05-11T22:58:50.960459+00:00  
+> **Last indexed:** 2026-05-12 08:45 UTC  
+> **Last sync:** 2026-05-12T08:45:11.007977+00:00  
 > **Records:** {'incidents': 0, 'changes': 1, 'problems': 0, 'knowledge': 0}
 
 ---
@@ -52,4 +52,4 @@ The agent matches your query keywords against this index to find relevant record
 
 
 ---
-*Total records indexed: **14** | Generated: 2026-05-11 22:58 UTC*
+*Total records indexed: **14** | Generated: 2026-05-12 08:45 UTC*

@@ -3,9 +3,9 @@ name: ServiceNow Data Sync
 on:
   schedule:
     # Runs 3x daily: 06:00, 14:00, 22:00 UTC
-    - cron: "0 6 * * *"
-    - cron: "0 14 * * *"
-    - cron: "0 22 * * *"
+    #- cron: "0 6 * * *"
+    #- cron: "0 14 * * *"
+    #- cron: "0 22 * * *"
   workflow_dispatch:
     inputs:
       sync_type:
